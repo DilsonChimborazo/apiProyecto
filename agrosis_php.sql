@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Servidor: localhost:3306
--- Tiempo de generación: 12-03-2025 a las 15:00:45
+-- Tiempo de generación: 12-03-2025 a las 16:20:49
 -- Versión del servidor: 8.0.30
 -- Versión de PHP: 8.1.10
 
@@ -18,7 +18,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Base de datos: `agrosis`
+-- Base de datos: `agrosis_php`
 --
 
 -- --------------------------------------------------------
